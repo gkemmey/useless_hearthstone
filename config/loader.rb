@@ -2,6 +2,8 @@
 
 require 'active_record'
 require 'unirest'
+require 'nokogiri' 
+require 'open-uri'
 
 ROOT = File.expand_path '../..', __FILE__
 

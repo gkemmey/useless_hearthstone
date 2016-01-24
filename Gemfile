@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
+# scraping
 gem 'unirest'
+gem 'nokogiri'
 
 # database
 gem 'sqlite3'

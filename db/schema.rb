@@ -19,6 +19,26 @@ ActiveRecord::Schema.define(version: 3) do
     t.string  "name",         null: false
   end
 
+  add_index "cards", ["name"], name: "index_cards_on_name"
+
+  create_table "deck_listings", force: :cascade do |t|
+    t.integer "card_id", null: false
+    t.integer "deck_id", null: false
+    t.integer "count",   null: false
+  end
+
+  create_table "decks", force: :cascade do |t|
+    t.string   "name"
+    t.integer  "hearthpwn_id"
+    t.string   "style"
+    t.integer  "cost"
+    t.datetime "uploaded_at"
+    t.boolean  "failed",       default: false, null: false
+    t.text     "last_error"
+  end
+
+  add_index "decks", ["hearthpwn_id"], name: "index_decks_on_hearthpwn_id"
+
   create_table "expansions", force: :cascade do |t|
     t.string "name", null: false
   end
