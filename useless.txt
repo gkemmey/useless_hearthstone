@@ -1,691 +1,691 @@
-Analyzing 100 decks:
+Analyzing 999 decks:
 
 Useless Legendaries:
-Acidmaw                  0
-Anub'arak                0
-Aviana                   0
-Blingtron 3000           0
-Bolvar Fordragon         0
-Captain Greenskin        0
 Flame Leviathan          0
-Foe Reaper 4000          0
-Gazlowe                  0
-Gruul                    0
 Hemet Nesingwary         0
-Hogger                   0
-Icehowl                  0
-Illidan Stormrage        0
-King Krush               0
-King Mukla               0
-Lorewalker Cho           0
-Malorne                  0
 Mekgineer Thermaplugg    0
-Millhouse Manastorm      0
-Mimiron's Head           0
-Mogor the Ogre           0
-Nat Pagle                0
-Nozdormu                 0
-Onyxia                   0
-Prophet Velen            0
-Skycap'n Kragg           0
-The Beast                0
-The Skeleton Knight      0
-Tinkmaster Overspark     0
-Trade Prince Gallywix    0
-Troggzor the Earthinator 0
-Varian Wrynn             0
-Wilfred Fizzlebang       0
-Bolf Ramshield           1
-Cairne Bloodhoof         1
-Cenarius                 1
-Eadric the Pure          1
-Edwin VanCleef           1
-Iron Juggernaut          1
-Maexxna                  1
-Majordomo Executus       1
-Neptulon                 1
-Rend Blackhand           1
-Rhonin                   1
-Sneed's Old Shredder     1
-Toshley                  1
-Al'Akir the Windlord     2
-Archmage Antonidas       2
-Confessor Paletress      2
-Eydis Darkbane           2
-Fjola Lightbane          2
-Gahz'rilla               2
-Gormok the Impaler       2
-Old Murk-Eye             2
-The Mistcaller           2
-Deathwing                3
-Feugen                   3
-Nexus-Champion Saraad    3
-Stalagg                  3
-The Black Knight         3
-Baron Geddon             4
-Harrison Jones           4
-Kel'Thuzad               4
-Malygos                  4
-Nefarian                 4
-Vol'jin                  4
-Arch-Thief Rafaam        5
-Baron Rivendare          5
-Chromaggus               5
-Chillmaw                 6
-Dreadscale               6
-Leeroy Jenkins           6
-Tirion Fordring          6
-Grommash Hellscream      7
-Mal'Ganis                7
-Lord Jaraxxus            8
-Alexstrasza              9
-Ragnaros the Firelord    9
-Elise Starseeker         10
-Justicar Trueheart       11
-Bloodmage Thalnos        12
-Ysera                    12
-Sir Finley Mrrgglton     15
-Brann Bronzebeard        20
-Reno Jackson             21
-Sylvanas Windrunner      22
-Emperor Thaurissan       25
-Loatheb                  30
-Dr. Boom                 52
+Foe Reaper 4000          1
+Gazlowe                  1
+Mimiron's Head           1
+Nozdormu                 1
+Acidmaw                  2
+Bolf Ramshield           2
+Gruul                    2
+Illidan Stormrage        2
+Malorne                  2
+Nat Pagle                2
+Tinkmaster Overspark     2
+Aviana                   3
+Eadric the Pure          3
+Hogger                   3
+Icehowl                  3
+Maexxna                  3
+Millhouse Manastorm      3
+Skycap'n Kragg           3
+The Beast                3
+Toshley                  3
+Troggzor the Earthinator 3
+Wilfred Fizzlebang       3
+Bolvar Fordragon         4
+Iron Juggernaut          4
+Mogor the Ogre           4
+Onyxia                   4
+King Mukla               5
+Lorewalker Cho           5
+The Skeleton Knight      5
+Trade Prince Gallywix    5
+Blingtron 3000           6
+Captain Greenskin        6
+Gahz'rilla               6
+King Krush               6
+Anub'arak                7
+Cairne Bloodhoof         7
+Fjola Lightbane          7
+Majordomo Executus       7
+Cenarius                 8
+Varian Wrynn             8
+Eydis Darkbane           9
+Neptulon                 9
+Rend Blackhand           10
+Rhonin                   10
+The Black Knight         10
+The Mistcaller           11
+Gormok the Impaler       12
+Deathwing                13
+Al'Akir the Windlord     14
+Edwin VanCleef           16
+Prophet Velen            16
+Dreadscale               17
+Confessor Paletress      21
+Leeroy Jenkins           21
+Nexus-Champion Saraad    21
+Sneed's Old Shredder     21
+Baron Rivendare          23
+Chillmaw                 24
+Feugen                   24
+Old Murk-Eye             25
+Stalagg                  25
+Baron Geddon             28
+Kel'Thuzad               31
+Vol'jin                  32
+Nefarian                 33
+Arch-Thief Rafaam        34
+Chromaggus               36
+Malygos                  37
+Harrison Jones           38
+Archmage Antonidas       51
+Mal'Ganis                54
+Grommash Hellscream      56
+Lord Jaraxxus            58
+Bloodmage Thalnos        72
+Ragnaros the Firelord    73
+Tirion Fordring          82
+Elise Starseeker         84
+Ysera                    84
+Alexstrasza              97
+Justicar Trueheart       108
+Sir Finley Mrrgglton     115
+Brann Bronzebeard        140
+Reno Jackson             162
+Sylvanas Windrunner      172
+Emperor Thaurissan       258
+Loatheb                  321
+Dr. Boom                 520
 
 Useless Epics:
-Anima Golem              0
-Arcane Blast             0
 Astral Communion         0
-Avenging Wrath           0
-Beneath the Grounds      0
-Bestial Wrath            0
-Blood Knight             0
-Bouncing Blade           0
-Captain's Parrot         0
-Charged Hammer           0
-Clockwork Giant          0
-Cogmaster's Wrench       0
-Confuse                  0
 Crowd Favorite           0
-Dark Bargain             0
-Dark Wispers             0
-Demonheart               0
-Earth Elemental          0
-Enter the Coliseum       0
-Grand Crusader           0
-Hungry Crab              0
-Junkbot                  0
-Kidnapper                0
-Magnataur Alpha          0
-Master of Ceremonies     0
-Mindgames                0
 Mini-Mage                0
-Mulch                    0
 Patient Assassin         0
-Pit Lord                 0
-Poisoned Blade           0
-Quartermaster            0
 Recruiter                0
-Sabotage                 0
-Sea Reaver               0
-Shadowbomber             0
-Shadowfiend              0
-Sideshow Spelleater      0
-Siltfin Spiritwalker     0
-Southsea Captain         0
-Spellbender              0
-Stablemaster             0
-Sword of Justice         0
-Wee Spellstopper         0
-Bane of Doom             1
-Coldarra Drake           1
-Enhance-o Mechano        1
-Garrison Commander       1
-Gorehowl                 1
-Kodorider                1
-Piloted Sky Golem        1
-Shade of Naxxramas       1
-Steamwheedle Sniper      1
-Ancestor's Call          2
-Crush                    2
-Djinni of Zephyrs        2
-Echoing Ooze             2
-Far Sight                2
-Feign Death              2
-Fel Reaver               2
-Frost Giant              2
-Gladiator's Longbow      2
-Hobgoblin                2
-Lock and Load            2
-Naga Sea Witch           2
-Pyroblast                2
-Snake Trap               2
-Tree of Life             2
-Echo of Medivh           3
-Elemental Destruction    3
-Force of Nature          3
-Lay on Hands             3
-Mountain Giant           3
-Recombobulator           3
-Shadowform               3
-Murloc Warleader         4
-Ancient of War           5
-Sea Giant                5
-Dreadsteed               6
-Faceless Manipulator     6
-Twisting Nether          6
-Coghammer                7
-Doomhammer               7
-Molten Giant             7
-Ancient of Lore          8
-Brawl                    8
-Preparation              8
-Shield Slam              8
-Ice Block                12
-Mysterious Challenger    12
-Cabal Shadow Priest      13
-Lightbomb                16
-Twilight Guardian        19
-Doomsayer                23
-Big Game Hunter          32
+Anima Golem              1
+Captain's Parrot         1
+Cogmaster's Wrench       1
+Junkbot                  1
+Magnataur Alpha          1
+Master of Ceremonies     1
+Poisoned Blade           1
+Stablemaster             1
+Wee Spellstopper         1
+Bestial Wrath            2
+Bouncing Blade           2
+Clockwork Giant          2
+Confuse                  2
+Dark Wispers             2
+Pit Lord                 2
+Sea Reaver               2
+Shadowfiend              2
+Sideshow Spelleater      2
+Dark Bargain             3
+Demonheart               3
+Kidnapper                3
+Siltfin Spiritwalker     3
+Enter the Coliseum       4
+Lock and Load            4
+Spellbender              4
+Blood Knight             5
+Hungry Crab              5
+Mulch                    5
+Steamwheedle Sniper      5
+Tree of Life             5
+Crush                    6
+Gladiator's Longbow      6
+Sword of Justice         6
+Avenging Wrath           7
+Beneath the Grounds      7
+Grand Crusader           7
+Shadowbomber             7
+Sabotage                 8
+Coldarra Drake           9
+Mindgames                9
+Feign Death              10
+Hobgoblin                10
+Ancestor's Call          11
+Far Sight                11
+Frost Giant              11
+Naga Sea Witch           11
+Southsea Captain         11
+Earth Elemental          12
+Charged Hammer           13
+Recombobulator           13
+Gorehowl                 14
+Kodorider                15
+Arcane Blast             16
+Bane of Doom             17
+Djinni of Zephyrs        17
+Garrison Commander       17
+Enhance-o Mechano        19
+Snake Trap               19
+Pyroblast                22
+Dreadsteed               24
+Piloted Sky Golem        24
+Echo of Medivh           26
+Sea Giant                26
+Echoing Ooze             27
+Ancient of War           29
+Mountain Giant           33
+Elemental Destruction    34
+Quartermaster            35
+Shadowform               36
+Twisting Nether          36
+Fel Reaver               44
+Shade of Naxxramas       46
+Murloc Warleader         52
+Faceless Manipulator     54
+Lay on Hands             60
+Doomhammer               64
+Preparation              66
+Brawl                    72
+Ancient of Lore          76
+Force of Nature          77
+Molten Giant             82
+Coghammer                86
+Cabal Shadow Priest      88
+Ice Block                89
+Shield Slam              93
+Mysterious Challenger    98
+Doomsayer                104
+Lightbomb                112
+Twilight Guardian        115
+Big Game Hunter          282
 
 Useless Rares:
-Abomination              0
-Ancestral Spirit         0
-Ancient Mage             0
-Ancient Shade            0
-Angry Chicken            0
-Argent Commander         0
-Argent Lance             0
-Argent Watchman          0
-Armored Warhorse         0
-Bite                     0
-Blessed Champion         0
 Bloodsail Corsair        0
-Bomb Lobber              0
-Call Pet                 0
 Cobalt Guardian          0
-Coldlight Seer           0
-Coliseum Manager         0
-Commanding Shout         0
-Convert                  0
 Core Rager               0
-Counterspell             0
-Crazed Alchemist         0
-Cursed Blade             0
-Dark Iron Skulker        0
-Demolisher               0
-Draenei Totemcarver      0
-Dragon Consort           0
-Dunemaul Shaman          0
-Eerie Statue             0
-Emperor Cobra            0
-Ethereal Arcanist        0
-Everyfin is Awesome      0
-Fel Cannon               0
 Felguard                 0
-Fencing Coach            0
-Fist of Jaraxxus         0
-Gnomish Experimenter     0
 Goblin Sapper            0
-Headcrack                0
-Holy Wrath               0
-Illuminator              0
-Iron Sensei              0
 Jungle Moonkin           0
-Kezan Mystic             0
-King's Defender          0
-Kirin Tor Mage           0
-Knight of the Wild       0
 Light's Champion         0
-Lightwarden              0
-Lightwell                0
-Lil' Exorcist            0
-Madder Bomber            0
-Mana Addict              0
-Mana Wraith              0
-Master Jouster           0
-Master Swordsmith        0
-Master of Disguise       0
-Mech-Bear-Cat            0
-Metaltooth Leaper        0
-Misdirection             0
-Mistress of Pain         0
-Mogor's Champion         0
-Murloc Tidecaller        0
-Ogre Ninja               0
 One-eyed Cheat           0
-Perdition's Blade        0
-Pint-Sized Summoner      0
-Polymorph: Boar          0
-Questing Adventurer      0
-Ravenholdt Assassin      0
 Recycle                  0
-Reliquary Seeker         0
-Saboteur                 0
-Savagery                 0
 Scarlet Purifier         0
 Screwjank Clunker        0
-Shadowboxer              0
-Shady Dealer             0
-Siege Engine             0
 Soot Spewer              0
-Spawn of Shadows         0
-Stampeding Kodo          0
-Summoning Stone          0
-Target Dummy             0
 Tiny Knight of Evil      0
-Tuskarr Jouster          0
 Upgraded Repair Bot      0
-Vaporize                 0
-Vitality Totem           0
 Void Crusher             0
-Volcanic Lumberer        0
-Wailing Soul             0
-Wobbling Runts           0
-Young Priestess          0
-Alexstrasza's Champion   1
-Arcane Nullifier X-21    1
-Ball of Spiders          1
-Burgle                   1
-Cutpurse                 1
-Explosive Shot           1
-Fallen Hero              1
-Light of the Naaru       1
-Mass Dispel              1
-Powermace                1
-Savage Combatant         1
-Sparring Partner         1
-Upgrade!                 1
-Alarm-o-Bot              2
-Animated Armor           2
-Dragon Egg               2
-Explorer's Hat           2
-Injured Kvaldir          2
-King of Beasts           2
-Mana Tide Totem          2
-Powershot                2
-Sunwalker                2
-Void Terror              2
-Frothing Berserker       3
-Imp Master               3
-Jeeves                   3
-Mortal Strike            3
-Nourish                  3
-Ram Wrangler             3
-Violet Teacher           3
-Wyrmrest Agent           3
-Ancient Watcher          4
-Anyfin Can Happen        4
-Effigy                   4
-Equality                 4
-Flamewaker               4
-Gadgetzan Auctioneer     4
-Goblin Blastmage         4
-Grove Tender             4
-Healing Wave             4
-Holy Fire                4
-Injured Blademaster      4
-Revenge                  4
-Starfall                 4
-Thunder Bluff Valiant    4
-Darnassus Aspirant       5
-Demonwrath               5
-Flare                    5
-Unearthed Raptor         5
-Competitive Spirit       6
-Lava Burst               6
-Resurrect                6
-SI:7 Agent               6
-Sunfury Protector        6
-Excavated Evil           7
-Shadow Madness           7
-Siphon Soul              7
-Aldor Peacekeeper        8
-Auchenai Soulpriest      8
-Divine Favor             8
-Eaglehorn Bow            8
-Grim Patron              8
-Savannah Highmane        8
-Shieldmaiden             8
-Unstable Portal          8
-Blade Flurry             9
-Arcane Golem             10
-Coldlight Oracle         10
-Lava Shock               10
-Lightning Storm          10
-Mind Control Tech        10
-Secretkeeper             10
-Doomguard                11
-Shadowflame              11
-Keeper of the Grove      12
-Armorsmith               13
-Feral Spirit             13
-Twilight Drake           13
-Blizzard                 15
-Muster for Battle        16
-Wild Pyromancer          18
-Deathlord                19
-Nerubian Egg             19
-Imp-losion               20
-Defender of Argus        37
-Knife Juggler            38
-Azure Drake              40
-Sludge Belcher           58
+Argent Lance             1
+Dunemaul Shaman          1
+Headcrack                1
+Pint-Sized Summoner      1
+Savagery                 1
+Young Priestess          1
+Ancient Mage             2
+Bite                     2
+Commanding Shout         2
+Crazed Alchemist         2
+Fencing Coach            2
+Fist of Jaraxxus         2
+Gnomish Experimenter     2
+Holy Wrath               2
+Lil' Exorcist            2
+Master of Disguise       2
+Mech-Bear-Cat            2
+Misdirection             2
+Mistress of Pain         2
+Ravenholdt Assassin      2
+Siege Engine             2
+Target Dummy             2
+Argent Watchman          3
+Armored Warhorse         3
+Call Pet                 3
+Demolisher               3
+Explosive Shot           3
+Knight of the Wild       3
+Ogre Ninja               3
+Reliquary Seeker         3
+Shady Dealer             3
+Coliseum Manager         4
+Emperor Cobra            4
+Mana Wraith              4
+Wobbling Runts           4
+Ancestral Spirit         5
+Draenei Totemcarver      5
+Everyfin is Awesome      5
+Fel Cannon               5
+Iron Sensei              5
+King of Beasts           5
+Madder Bomber            5
+Vitality Totem           5
+Alarm-o-Bot              6
+Coldlight Seer           6
+Lightwell                6
+Mana Addict              6
+Mogor's Champion         6
+Perdition's Blade        6
+Saboteur                 6
+Volcanic Lumberer        6
+Convert                  7
+Cursed Blade             7
+Master Swordsmith        7
+Metaltooth Leaper        7
+Angry Chicken            8
+Cutpurse                 8
+Explorer's Hat           8
+King's Defender          8
+Questing Adventurer      8
+Spawn of Shadows         8
+Master Jouster           9
+Abomination              10
+Arcane Nullifier X-21    10
+Ethereal Arcanist        10
+Fallen Hero              10
+Lightwarden              10
+Polymorph: Boar          10
+Blessed Champion         11
+Illuminator              11
+Imp Master               11
+Mortal Strike            11
+Tuskarr Jouster          11
+Vaporize                 11
+Ancient Shade            12
+Murloc Tidecaller        12
+Argent Commander         14
+Bomb Lobber              14
+Sparring Partner         14
+Upgrade!                 14
+Ball of Spiders          15
+Injured Kvaldir          15
+Mass Dispel              15
+Nourish                  15
+Stampeding Kodo          15
+Grove Tender             16
+Dragon Consort           17
+Powermace                17
+Shadowboxer              17
+Burgle                   18
+Dragon Egg               18
+Kirin Tor Mage           18
+Alexstrasza's Champion   19
+Animated Armor           20
+Dark Iron Skulker        20
+Eerie Statue             20
+Ram Wrangler             20
+Revenge                  20
+Savage Combatant         20
+Sunwalker                20
+Effigy                   21
+Powershot                22
+Wailing Soul             22
+Starfall                 23
+Void Terror              23
+Gadgetzan Auctioneer     25
+Jeeves                   25
+Summoning Stone          26
+Resurrect                27
+Light of the Naaru       28
+Mana Tide Totem          28
+Thunder Bluff Valiant    29
+Holy Fire                30
+Injured Blademaster      30
+Flare                    32
+Goblin Blastmage         33
+Kezan Mystic             35
+Violet Teacher           37
+Wyrmrest Agent           39
+Shadow Madness           40
+Healing Wave             41
+Anyfin Can Happen        42
+Counterspell             42
+Grim Patron              42
+Unearthed Raptor         42
+Frothing Berserker       43
+Ancient Watcher          47
+Demonwrath               49
+Competitive Spirit       54
+Excavated Evil           56
+Lava Burst               57
+Arcane Golem             58
+Sunfury Protector        61
+Siphon Soul              62
+Divine Favor             68
+Coldlight Oracle         72
+Darnassus Aspirant       76
+Lava Shock               78
+Shieldmaiden             78
+Auchenai Soulpriest      79
+Shadowflame              80
+Mind Control Tech        82
+Secretkeeper             82
+Flamewaker               84
+Blade Flurry             86
+Feral Spirit             86
+Blizzard                 89
+SI:7 Agent               94
+Lightning Storm          98
+Savannah Highmane        99
+Twilight Drake           100
+Aldor Peacekeeper        103
+Equality                 105
+Eaglehorn Bow            106
+Armorsmith               113
+Keeper of the Grove      115
+Unstable Portal          116
+Doomguard                119
+Wild Pyromancer          120
+Deathlord                166
+Imp-losion               166
+Nerubian Egg             167
+Muster for Battle        208
+Defender of Argus        309
+Azure Drake              361
+Knife Juggler            439
+Sludge Belcher           537
 
 Useless Commons:
-Amani Berserker          0
-Ancient Brewmaster       0
-Anub'ar Ambusher         0
-Anubisath Sentinel       0
-Arathi Weaponsmith       0
-Archmage                 0
-Betrayal                 0
-Blood Imp                0
-Bloodsail Raider         0
-Bolster                  0
-Boneguard Lieutenant     0
-Booty Bay Bodyguard      0
 Brave Archer             0
-Burly Rockjaw Trogg      0
-Chillwind Yeti           0
-Cleave                   0
 Cobra Shot               0
-Conceal                  0
-Core Hound               0
-Corruption               0
-Curse of Rafaam          0
-Dalaran Aspirant         0
-Dalaran Mage             0
-Darkscale Healer         0
-Dart Trap                0
-Demonfire                0
-Demonfuse                0
-Desert Camel             0
-Divine Spirit            0
-Dragon's Breath          0
-Dragonhawk Rider         0
-Druid of the Fang        0
-Druid of the Flame       0
-Dust Devil               0
-Evil Heckler             0
 Eye for an Eye           0
-Fearsome Doomguard       0
 Fen Creeper              0
-Flame Lance              0
-Flesheating Ghoul        0
-Floating Watcher         0
-Flying Machine           0
-Force-Tank MAX           0
-Forked Lightning         0
-Fossilized Devilsaur     0
-Frigid Snobold           0
-Frost Elemental          0
-Frostwolf Grunt          0
-Frostwolf Warlord        0
-Gadgetzan Jouster        0
-Gilblin Stalker          0
-Gnomeregan Infantry      0
-Goblin Auto-Barber       0
-Goldshire Footman        0
-Grimscale Oracle         0
-Guardian of Kings        0
-Gurubashi Berserker      0
-Holy Champion            0
-Hungry Dragon            0
-Ice Rager                0
-Inner Fire               0
-Ironforge Rifleman       0
-Jungle Panther           0
-Kobold Geomancer         0
-Kvaldir Raider           0
-Lightspawn               0
-Lord of the Arena        0
-Lost Tallstrider         0
-Lowly Squire             0
-Maiden of the Lake       0
-Mark of Nature           0
-Micro Machine            0
-Mind Vision              0
-Mogu'shan Warden         0
-Moonfire                 0
-Mukla's Champion         0
-Murloc Knight            0
-Murloc Tidehunter        0
-Murloc Tinyfin           0
-Nerub'ar Weblord         0
-North Sea Kraken         0
-Obsidian Destroyer       0
-Ogre Brute               0
-Ogre Magi                0
-Ogre Warmaul             0
-Orgrimmar Aspirant       0
-Pit Fighter              0
-Priestess of Elune       0
-Puddlestomper            0
-Raging Worgen            0
-Rampage                  0
-Razorfen Hunter          0
-Reincarnate              0
-Sacred Trial             0
-Salty Dog                0
-Scarlet Crusader         0
-Seal of Light            0
-Sense Demons             0
-Shado-Pan Rider          0
-Shieldbearer             0
-Ship's Cannon            0
-Silence                  0
-Silent Knight            0
-Silver Hand Knight       0
-Silver Hand Regent       0
-Silverback Patriarch     0
-Silvermoon Guardian      0
-Snipe                    0
-Soul of the Forest       0
-Spectral Knight          0
-Spellbreaker             0
-Spiteful Smith           0
-Starfire                 0
-Starving Buzzard         0
-Stoneskin Gargoyle       0
-Stonesplinter Trogg      0
-Stormpike Commando       0
-Stormwind Champion       0
-Stormwind Knight         0
-Stranglethorn Tiger      0
-Summoning Portal         0
-Tauren Warrior           0
-Temple Enforcer          0
 Thrallmar Farseer        0
-Totemic Might            0
-Tournament Attendee      0
-Tundra Rhino             0
-Undercity Valiant        0
-Venture Co. Mercenary    0
-Volcanic Drake           0
-War Golem                0
-Warbot                   0
-Warhorse Trainer         0
-Wildwalker               0
 Windfury Harpy           0
-Windspeaker              0
-Wisp                     0
-Wrathguard               0
-Young Dragonhawk         0
-Anodized Robo Cub        1
-Assassin's Blade         1
-Buccaneer                1
-Captured Jormungar       1
-Cone of Cold             1
-Cult Master              1
-Dancing Swords           1
-Dark Cultist             1
-Dragonkin Sorcerer       1
-Drakonid Crusher         1
-Dread Infernal           1
-Elven Archer             1
-Fireguard Destroyer      1
-Gnomish Inventor         1
-Gorillabot A-3           1
-Humility                 1
-Ironbark Protector       1
-Lance Carrier            1
-Mad Bomber               1
-Pit Snake                1
-Power Word: Glory        1
-Raven Idol               1
-Scavenging Hyena         1
-Soulfire                 1
-Spellslinger             1
-Youthful Brewmaster      1
-Argent Protector         2
-Axe Flinger              2
-Blessing of Wisdom       2
-Clockwork Gnome          2
-Clockwork Knight         2
-Cold Blood               2
-Dark Iron Dwarf          2
-Dragonling Mechanic      2
-Druid of the Saber       2
-Faerie Dragon            2
-Gang Up                  2
-Glaivezooka              2
-Huge Toad                2
-Ironfur Grizzly          2
-Mind Control             2
-Naturalize               2
-Poison Seeds             2
-Power of the Wild        2
-Shattered Sun Cleric     2
-Tomb Pillager            2
-Unbound Elemental        2
-Undertaker               2
-Vanish                   2
-Bloodlust                3
-Defias Ringleader        3
-Explosive Trap           3
-Fierce Monkey            3
-Flame Juggler            3
-Flamecannon              3
-Freezing Trap            3
-Harvest Golem            3
-Mechanical Yeti          3
-Mirror Image             3
-Mounted Raptor           3
-Rumbling Elemental       3
-Shadowstep               3
-Shiv                     3
-Sprint                   3
-Stormforged Axe          3
-Tinker's Sharpsword Oil  3
-Tinkertown Technician    3
-Tomb Spider              3
-Twilight Whelp           3
-Worgen Infiltrator       3
-Arcanite Reaper          4
-Cruel Taskmaster         4
-Explosive Sheep          4
-Kor'kron Elite           4
-Repentance               4
-Seal of Champions        4
-Solemn Vigil             4
-Spider Tank              4
-Bear Trap                5
-Bluegill Warrior         5
-Earthen Ring Farseer     5
-Flame Imp                5
-Flash Heal               5
-Living Roots             5
-Sacrificial Pact         5
-Savage Roar              5
-Whirling Zap-o-matic     5
-Acidic Swamp Ooze        6
-Argent Squire            6
-Battle Rage              6
-Cogmaster                6
-Deadly Shot              6
-Dread Corsair            6
-Inner Rage               6
-King's Elekk             6
-Mechwarper               6
-Quick Shot               6
-Redemption               6
-Shrinkmeister            6
-Snowchugger              6
-Sorcerer's Apprentice    6
-Tournament Medic         6
-Crackle                  7
-Earth Shock              7
-Flametongue Totem        7
-Forgotten Torch          7
-Kill Command             7
-Lightning Bolt           7
-Mirror Entity            7
-Refreshment Vendor       7
-Slam                     7
-Southsea Deckhand        7
-Circle of Healing        8
-Mana Wyrm                8
-Shield Block             8
-Tuskarr Totemic          8
-Water Elemental          8
-Whirlwind                8
-Wrath                    8
-Annoy-o-Tron             9
-Dire Wolf Alpha          9
-Druid of the Claw        9
-Fire Elemental           9
-Museum Curator           9
-Ancestral Knowledge      10
-Bash                     10
-Blackwing Technician     10
-Blessing of Kings        10
-Duplicate                10
-Eviscerate               10
-Thoughtsteal             10
-Tunnel Trogg             10
-Velen's Chosen           10
-Webspinner               10
-Ethereal Conjurer        11
-Loot Hoarder             11
-Animal Companion         12
-Avenge                   12
-Consecration             12
-Frost Nova               12
-Hunter's Mark            12
-Ice Lance                12
-Jeweled Scarab           12
-Keeper of Uldaman        12
-Noble Sacrifice          12
-Truesilver Champion      12
-Unleash the Hounds       12
-Unstable Ghoul           12
-Argent Horserider        13
-Fan of Knives            13
-Shadow Word: Death       13
-Swipe                    13
-Voidcaller               13
-Holy Nova                14
-Ice Barrier              14
-Darkbomb                 15
-Totem Golem              15
-Blackwing Corruptor      16
-Entomb                   16
-Death's Bite             17
-Flamestrike              17
-Mortal Coil              17
-Shielded Minibot         18
-Leper Gnome              21
-Power Overwhelming       21
-Dark Peddler             22
-Acolyte of Pain          23
-Imp Gang Boss            26
-Frostbolt                29
-Zombie Chow              32
-Abusive Sergeant         36
-Haunted Creeper          36
-Ironbeak Owl             37
-Mad Scientist            38
-Piloted Shredder         50
-Antique Healbot          57
+Booty Bay Bodyguard      1
+Forked Lightning         1
+Fossilized Devilsaur     1
+Frigid Snobold           1
+Gnomeregan Infantry      1
+Salty Dog                1
+Shado-Pan Rider          1
+Silverback Patriarch     1
+Temple Enforcer          1
+Tournament Attendee      1
+Blood Imp                2
+Captured Jormungar       2
+Demonfuse                2
+Dust Devil               2
+Frost Elemental          2
+Frostwolf Grunt          2
+Ice Rager                2
+Jungle Panther           2
+Silvermoon Guardian      2
+Stoneskin Gargoyle       2
+Undercity Valiant        2
+Anub'ar Ambusher         3
+Core Hound               3
+Dalaran Aspirant         3
+Dalaran Mage             3
+Lost Tallstrider         3
+Mogu'shan Warden         3
+Ogre Warmaul             3
+Orgrimmar Aspirant       3
+Pit Fighter              3
+Pit Snake                3
+Sacred Trial             3
+Seal of Light            3
+Sense Demons             3
+Spiteful Smith           3
+Stormpike Commando       3
+Summoning Portal         3
+Venture Co. Mercenary    3
+War Golem                3
+Arathi Weaponsmith       4
+Archmage                 4
+Betrayal                 4
+Dragonhawk Rider         4
+Flesheating Ghoul        4
+Force-Tank MAX           4
+Kvaldir Raider           4
+Lord of the Arena        4
+Moonfire                 4
+Scarlet Crusader         4
+Silent Knight            4
+Starving Buzzard         4
+Warbot                   4
+Wildwalker               4
+Wisp                     4
+Young Dragonhawk         4
+Axe Flinger              5
+Curse of Rafaam          5
+Dragon's Breath          5
+Dragonling Mechanic      5
+Druid of the Fang        5
+Druid of the Flame       5
+Flying Machine           5
+Ironforge Rifleman       5
+Lowly Squire             5
+Priestess of Elune       5
+Silver Hand Knight       5
+Snipe                    5
+Spectral Knight          5
+Windspeaker              5
+Ancient Brewmaster       6
+Anubisath Sentinel       6
+Corruption               6
+Lightspawn               6
+Mark of Nature           6
+Murloc Tinyfin           6
+Reincarnate              6
+Totemic Might            6
+Anodized Robo Cub        7
+Boneguard Lieutenant     7
+Burly Rockjaw Trogg      7
+Dart Trap                7
+Evil Heckler             7
+Fearsome Doomguard       7
+Floating Watcher         7
+Scavenging Hyena         7
+Stormwind Knight         7
+Undertaker               7
+Conceal                  8
+Darkscale Healer         8
+Demonfire                8
+Gurubashi Berserker      8
+Hungry Dragon            8
+Nerub'ar Weblord         8
+Ogre Magi                8
+Warhorse Trainer         8
+Drakonid Crusher         9
+Goldshire Footman        9
+Ironbark Protector       9
+Ironfur Grizzly          9
+Lance Carrier            9
+North Sea Kraken         9
+Puddlestomper            9
+Wrathguard               9
+Defias Ringleader        10
+Gadgetzan Jouster        10
+Huge Toad                10
+Kobold Geomancer         10
+Obsidian Destroyer       10
+Power Word: Glory        10
+Ship's Cannon            10
+Starfire                 10
+Tauren Warrior           10
+Volcanic Drake           10
+Blessing of Wisdom       11
+Bolster                  11
+Flame Lance              11
+Gilblin Stalker          11
+Mind Vision              11
+Razorfen Hunter          11
+Rumbling Elemental       11
+Stranglethorn Tiger      11
+Amani Berserker          12
+Guardian of Kings        12
+Humility                 12
+Mad Bomber               12
+Poison Seeds             12
+Stonesplinter Trogg      12
+Buccaneer                13
+Naturalize               13
+Tundra Rhino             13
+Cleave                   14
+Elven Archer             14
+Maiden of the Lake       14
+Micro Machine            14
+Ogre Brute               14
+Rampage                  14
+Desert Camel             15
+Frostwolf Warlord        15
+Goblin Auto-Barber       15
+Shieldbearer             15
+Silence                  15
+Soul of the Forest       15
+Dread Infernal           16
+Dragonkin Sorcerer       17
+Murloc Tidehunter        17
+Vanish                   17
+Dancing Swords           18
+Flame Juggler            18
+Inner Fire               18
+Mukla's Champion         18
+Silver Hand Regent       18
+Cone of Cold             19
+Gang Up                  19
+Raging Worgen            19
+Stormforged Axe          19
+Chillwind Yeti           20
+Grimscale Oracle         20
+Deadly Shot              21
+Divine Spirit            21
+Repentance               21
+Worgen Infiltrator       21
+Assassin's Blade         22
+Clockwork Knight         22
+Holy Champion            22
+Raven Idol               22
+Shiv                     22
+Spellslinger             22
+Unbound Elemental        22
+Youthful Brewmaster      22
+Argent Protector         23
+Gorillabot A-3           23
+Spellbreaker             23
+Bloodlust                24
+Gnomish Inventor         24
+Mechanical Yeti          24
+Sacrificial Pact         24
+Fireguard Destroyer      25
+Arcanite Reaper          26
+Faerie Dragon            26
+Mind Control             26
+Cult Master              27
+Glaivezooka              27
+Seal of Champions        27
+Bloodsail Raider         28
+Cold Blood               29
+Explosive Sheep          29
+Power of the Wild        29
+Shadowstep               29
+Argent Squire            31
+Druid of the Saber       31
+Stormwind Champion       31
+Dark Iron Dwarf          34
+Kor'kron Elite           34
+Soulfire                 34
+Whirling Zap-o-matic     34
+Tomb Spider              35
+Twilight Whelp           36
+Shattered Sun Cleric     38
+Solemn Vigil             38
+Flash Heal               40
+Dark Cultist             41
+Snowchugger              41
+Sprint                   42
+Tomb Pillager            42
+Battle Rage              43
+Dread Corsair            44
+Refreshment Vendor       44
+Southsea Deckhand        44
+Bear Trap                45
+Mounted Raptor           45
+Tinker's Sharpsword Oil  45
+King's Elekk             46
+Tinkertown Technician    46
+Tournament Medic         46
+Shrinkmeister            47
+Fierce Monkey            50
+Duplicate                51
+Murloc Knight            52
+Mirror Image             55
+Freezing Trap            56
+Inner Rage               56
+Flametongue Totem        57
+Water Elemental          57
+Whirlwind                58
+Cogmaster                59
+Harvest Golem            59
+Quick Shot               59
+Tuskarr Totemic          59
+Thoughtsteal             60
+Flamecannon              63
+Redemption               63
+Spider Tank              63
+Unstable Ghoul           63
+Bluegill Warrior         66
+Explosive Trap           67
+Circle of Healing        69
+Ice Lance                69
+Earthen Ring Farseer     70
+Ice Barrier              70
+Mirror Entity            70
+Clockwork Gnome          71
+Hunter's Mark            74
+Blackwing Technician     75
+Forgotten Torch          75
+Webspinner               76
+Cruel Taskmaster         77
+Ethereal Conjurer        77
+Mechwarper               78
+Lightning Bolt           81
+Museum Curator           81
+Dire Wolf Alpha          82
+Frost Nova               82
+Earth Shock              86
+Loot Hoarder             86
+Sorcerer's Apprentice    86
+Crackle                  88
+Slam                     89
+Tunnel Trogg             89
+Fire Elemental           90
+Flame Imp                90
+Living Roots             91
+Ancestral Knowledge      92
+Argent Horserider        94
+Bash                     94
+Fan of Knives            94
+Wrath                    96
+Velen's Chosen           99
+Acidic Swamp Ooze        101
+Druid of the Claw        105
+Shield Block             106
+Noble Sacrifice          107
+Savage Roar              107
+Blackwing Corruptor      109
+Voidcaller               114
+Annoy-o-Tron             115
+Avenge                   115
+Totem Golem              115
+Blessing of Kings        117
+Mana Wyrm                117
+Unleash the Hounds       119
+Entomb                   121
+Flamestrike              121
+Eviscerate               123
+Kill Command             123
+Mortal Coil              123
+Jeweled Scarab           129
+Darkbomb                 132
+Shadow Word: Death       134
+Swipe                    134
+Keeper of Uldaman        135
+Animal Companion         143
+Holy Nova                146
+Death's Bite             158
+Dark Peddler             168
+Power Overwhelming       169
+Imp Gang Boss            175
+Truesilver Champion      177
+Consecration             203
+Leper Gnome              203
+Shielded Minibot         216
+Frostbolt                236
+Acolyte of Pain          244
+Mad Scientist            262
+Zombie Chow              274
+Abusive Sergeant         287
+Ironbeak Owl             335
+Haunted Creeper          336
+Antique Healbot          430
+Piloted Shredder         608
